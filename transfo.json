@@ -1,0 +1,304 @@
+{
+  "Chlorure d'acide": [
+    {
+      "fonction": "Acide",
+      "reactif": "PX3"
+    }
+  ],
+  "Acide": [
+    {
+      "fonction": "Alcène",
+      "reactif": "O3,H2O2"
+    },
+    {
+      "fonction": "Alcool",
+      "reactif": "CrO3,H2SO4"
+    },
+    {
+      "fonction": "Alcool",
+      "reactif": "KMnO4,[],Δ"
+    },
+    {
+      "fonction": "Aldéhyde",
+      "reactif": "KMnO4,[],Δ"
+    },
+    {
+      "fonction": "Aldéhyde",
+      "reactif": "K2Cr2O7"
+    },
+    {
+      "fonction": "Anhydride d'acide",
+      "reactif": "OH- dilué"
+    },
+    {
+      "fonction": "Cétone",
+      "reactif": "OH-,X2"
+    },
+    {
+      "fonction": "Ester",
+      "reactif": "H2O,H+"
+    },
+    {
+      "fonction": "Organomagnésien ",
+      "reactif": "CO2"
+    }
+  ],
+  "Alcane": [
+    {
+      "fonction": "Alcène",
+      "reactif": "O3,H2O2"
+    },
+    {
+      "fonction": "Alcène",
+      "reactif": "H2,cat"
+    },
+    {
+      "fonction": "Alcyne",
+      "reactif": "H2,cat"
+    },
+    {
+      "fonction": "Aldéhyde",
+      "reactif": "Zn,HCl"
+    },
+    {
+      "fonction": "Cétone",
+      "reactif": "Zn,HCl"
+    },
+    {
+      "fonction": "Halogénure",
+      "reactif": "H2,cat"
+    },
+    {
+      "fonction": "Halogénure",
+      "reactif": "HX"
+    },
+    {
+      "fonction": "Organomagnésien",
+      "reactif": "alcool"
+    },
+    {
+      "fonction": "Organomagnésien",
+      "reactif": "amine"
+    },
+    {
+      "fonction": "Organomagnésien",
+      "reactif": "H2O"
+    },
+    {
+      "fonction": "Organomagnésien",
+      "reactif": "Alcyne"
+    },
+    {
+      "fonction": "Organomagnésien",
+      "reactif": "Acide"
+    },
+    {
+      "fonction": "Organomagnésien",
+      "reactif": "H2O,H+"
+    },
+    {
+      "fonction": "Organomagnésien",
+      "reactif": "HX"
+    }
+  ],
+  "Aromatique": [
+    {
+      "fonction": "Alcane",
+      "reactif": "Reformage"
+    }
+  ],
+  "Alcène": [
+    {
+      "fonction": "Alcane",
+      "reactif": "Crackage"
+    },
+    {
+      "fonction": "Alcool",
+      "reactif": "H+,Δ"
+    },
+    {
+      "fonction": "Alcyne",
+      "reactif": "H2,cat"
+    },
+    {
+      "fonction": "Halogénure",
+      "reactif": "OH-,[],Δ"
+    },
+    {
+      "fonction": "Aldéhyde",
+      "reactif": "RX,PΦ3,n-BuLi"
+    },
+    {
+      "fonction": "Cétone",
+      "reactif": "RX,PΦ3,n-BuLi"
+    }
+  ],
+  "Alcool": [
+    {
+      "fonction": "Acide",
+      "reactif": "LiAlH4"
+    },
+    {
+      "fonction": "Alcène",
+      "reactif": "H2O,H+"
+    },
+    {
+      "fonction": "Aldéhyde",
+      "reactif": "LiAlH4"
+    },
+    {
+      "fonction": "Aldéhyde",
+      "reactif": "NaBH4"
+    },
+    {
+      "fonction": "Aldéhyde/Cétone",
+      "reactif": "H2,cat"
+    },
+    {
+      "fonction": "Chlorure d'acide",
+      "reactif": "NaBH4"
+    },
+    {
+      "fonction": "Ester",
+      "reactif": "H2O "
+    },
+    {
+      "fonction": "Ester",
+      "reactif": "LiAlH4"
+    },
+    {
+      "fonction": "Halogénure",
+      "reactif": "OH- dilué"
+    },
+    {
+      "fonction": "Organomagnésien",
+      "reactif": "Aldéhyde/cétone"
+    },
+    {
+      "fonction": "Organomagnésien",
+      "reactif": "Ester"
+    }
+  ],
+  "Aldéhyde/Cétone": [
+    {
+      "fonction": "Alcène",
+      "reactif": "O3,H2O2"
+    },
+    {
+      "fonction": "Alcène",
+      "reactif": "PdCl2,H2O"
+    },
+    {
+      "fonction": "Alcool",
+      "reactif": "Cu 300°C"
+    },
+    {
+      "fonction": "Alcool",
+      "reactif": "CrO3,pyridine"
+    },
+    {
+      "fonction": "Alcyne",
+      "reactif": "H2O,H+"
+    },
+    {
+      "fonction": "Chlorure d'acide",
+      "reactif": "H2,cat"
+    },
+    {
+      "fonction": "Organomagnésien",
+      "reactif": "Nitrile"
+    }
+  ],
+  "Amide": [
+    {
+      "fonction": "Amine",
+      "reactif": "Acide"
+    },
+    {
+      "fonction": "Amine",
+      "reactif": "Anhydride d'acide"
+    },
+    {
+      "fonction": "Amine",
+      "reactif": "Chlorure d'acide"
+    }
+  ],
+  "Amine": [
+    {
+      "fonction": "Alcool",
+      "reactif": "NH3,Al2O3,300°C"
+    },
+    {
+      "fonction": "Halogénure",
+      "reactif": "Amine"
+    },
+    {
+      "fonction": "Nitrile",
+      "reactif": "H2,cat"
+    }
+  ],
+  "Aldéhyde": [
+    {
+      "fonction": "Amine",
+      "reactif": "Imine"
+    }
+  ],
+  "Halogénure": [
+    {
+      "fonction": "Alcane",
+      "reactif": "X2"
+    },
+    {
+      "fonction": "Alcène",
+      "reactif": "HX"
+    },
+    {
+      "fonction": "Alcène",
+      "reactif": "X2"
+    },
+    {
+      "fonction": "Alcène",
+      "reactif": "HX,perox"
+    },
+    {
+      "fonction": "Alcool",
+      "reactif": "HX"
+    },
+    {
+      "fonction": "Alcool",
+      "reactif": "PX5,PX3"
+    },
+    {
+      "fonction": "Alcyne",
+      "reactif": "HX"
+    },
+    {
+      "fonction": "Alcyne",
+      "reactif": "X2"
+    },
+    {
+      "fonction": "Aldéhyde",
+      "reactif": "PX5"
+    }
+  ],
+  "Organomagnésien": [
+    {
+      "fonction": "Halogénure",
+      "reactif": "Mg"
+    }
+  ],
+  "Ester": [
+    {
+      "fonction": "Alcool",
+      "reactif": "Acide"
+    },
+    {
+      "fonction": "Alcool",
+      "reactif": "Anhydride d'acide"
+    },
+    {
+      "fonction": "Alcool",
+      "reactif": "Chlorure d'acide"
+    }
+  ]
+}
